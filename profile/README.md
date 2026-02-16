@@ -1,4 +1,3 @@
-# .github
 # Make People Social Again
 
 Society is becoming increasingly atomized and devoid of human relationships. Never before have people been so technologically connected and yet so socially isolated. 
